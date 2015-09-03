@@ -13,3 +13,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 => Some instances where branches are helpful are testing out new features, trying different solutions to a problem... If you find you don't like the new changes you can go back to the master branch. 
+
+How do the diagrams help you visualize the branch structure?
+
+=> The diagrams show the commit and branch history. They also show reachability. 
