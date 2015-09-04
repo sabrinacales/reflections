@@ -17,3 +17,7 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 => The diagrams show the commit and branch history. They also show reachability. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+=> Merging two branches together takes the commits performed on both branches and combines them into one branch. Branches are represented a split between the main project (master) and an offshoot (branch). When the branches are merged it is represented at the two branches coming back together. Once two (or more) branches have been merged, the history of both branches can now be seen when in the merged branch. 
