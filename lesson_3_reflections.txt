@@ -16,7 +16,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+=> If you are working collaboratively, you want to make sure you have the most up-to-date version of the remote repo, so you can avoid conflicts with your remote and local repos. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
